@@ -1,0 +1,39 @@
+{
+ "n": 368,
+ "name_mismatches": [],
+ "max_abs_diff_F2023_vs_saved": 1.4210854715202004e-14,
+ "national_totals": {
+  "20": {
+   "activity_A": 23867919.0,
+   "trips_T": 294486855.0,
+   "night_weekday": 23867912.0,
+   "registration": 23563356.0,
+   "night_over_registration": 1.0129249840302883,
+   "trips_per_registered": 12.497661835606099,
+   "activity_over_registration": 1.0129252811017242
+  },
+  "23": {
+   "activity_A": 23392833.5,
+   "trips_T": 303321473.0,
+   "night_weekday": 23392832.0,
+   "registration": 23415008.0,
+   "night_over_registration": 0.9990529151217885,
+   "trips_per_registered": 12.954147741482728,
+   "activity_over_registration": 0.9990529791832657
+  }
+ },
+ "spearman_F20_F23": 0.9775875582419087,
+ "spearman_AN": 0.9482963044296953,
+ "spearman_AL": 0.996662149419741,
+ "spearman_TN": 0.969310411917056,
+ "rank_move_abs_median": 9.0,
+ "rank_move_abs_max": 171.0,
+ "rank_move_over20": 93,
+ "dlogA_median": -0.0363446638343157,
+ "dlogT_median": 0.05899636630394601,
+ "dlogN_median": -0.020345559479895192,
+ "spearman_dlogA_dlogN": 0.2214146880836182,
+ "spearman_dlogT_dlogN": 0.08776172822739955,
+ "spearman_dF_dlogN": -0.14973890156108083,
+ "spearman_shareA_S1_2023": 0.002770921012000365
+}

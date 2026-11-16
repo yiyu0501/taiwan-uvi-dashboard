@@ -1,0 +1,358 @@
+{
+ "S7": {
+  "n_common": 365,
+  "S7_S1_absdiff_median": 26.0,
+  "S7_S1_absdiff_max": 133.0,
+  "S7_S1_over20": 216,
+  "S7_S1_over20_pct": 59.178082191780824,
+  "spearman_S1_S7": 0.9344378280601052,
+  "spearman_Farea_density": 0.9854705317897015,
+  "spearman_F_density": 0.6660307186138584,
+  "spearman_S7_density": 0.9385962790858368,
+  "spearman_S1_density": 0.791736648709476,
+  "range6_median": 40.0,
+  "range6_q1": 25.0,
+  "range6_q3": 58.0,
+  "range6_max": 170.0,
+  "range7_median": 56.0,
+  "range7_q1": 34.0,
+  "range7_q3": 83.0,
+  "range7_max": 213.0
+ },
+ "S7_down": [
+  {
+   "county_name": "臺中市",
+   "town_name": "和平區",
+   "rS1": 164.0,
+   "rS7": 297.0
+  },
+  {
+   "county_name": "嘉義縣",
+   "town_name": "阿里山鄉",
+   "rS1": 201.0,
+   "rS7": 330.0
+  },
+  {
+   "county_name": "花蓮縣",
+   "town_name": "秀林鄉",
+   "rS1": 176.0,
+   "rS7": 300.0
+  },
+  {
+   "county_name": "宜蘭縣",
+   "town_name": "大同鄉",
+   "rS1": 221.0,
+   "rS7": 337.0
+  },
+  {
+   "county_name": "南投縣",
+   "town_name": "仁愛鄉",
+   "rS1": 222.0,
+   "rS7": 331.0
+  }
+ ],
+ "S7_up": [
+  {
+   "county_name": "屏東縣",
+   "town_name": "林邊鄉",
+   "rS1": 263.0,
+   "rS7": 182.0
+  },
+  {
+   "county_name": "高雄市",
+   "town_name": "林園區",
+   "rS1": 229.0,
+   "rS7": 150.0
+  },
+  {
+   "county_name": "彰化縣",
+   "town_name": "永靖鄉",
+   "rS1": 236.0,
+   "rS7": 162.0
+  },
+  {
+   "county_name": "高雄市",
+   "town_name": "鳳山區",
+   "rS1": 105.0,
+   "rS7": 31.0
+  },
+  {
+   "county_name": "高雄市",
+   "town_name": "旗津區",
+   "rS1": 211.0,
+   "rS7": 139.0
+  }
+ ],
+ "NNK": {
+  "n": 48,
+  "day_over_reg_gt1": 20,
+  "day_over_reg_lt09": 17,
+  "rank_gap_abs_median": 2.0,
+  "rank_gap_over5": 6,
+  "spearman_reg_act": 0.9730785931393833,
+  "spearman_outside_work_daynight": -0.6235345201910552,
+  "lisa_counts": {
+   "不顯著": 28,
+   "HH 高高": 20
+  },
+  "nat_lisa_HH": null
+ },
+ "NNK_county": [
+  {
+   "county_name": "基隆市",
+   "N20": 367740,
+   "N23": 362354,
+   "A20": 334378.0,
+   "A23": 310168.5,
+   "night23": 344102,
+   "N_change_pct": -1.4646,
+   "A_change_pct": -7.2402,
+   "A_share_change_pct": -5.3563,
+   "day_over_reg23": 0.856,
+   "day_over_night23": 0.9014
+  },
+  {
+   "county_name": "新北市",
+   "N20": 4030594,
+   "N23": 4039946,
+   "A20": 4080049.5,
+   "A23": 3910771.0,
+   "night23": 4318828,
+   "N_change_pct": 0.232,
+   "A_change_pct": -4.1489,
+   "A_share_change_pct": -2.2023,
+   "day_over_reg23": 0.968,
+   "day_over_night23": 0.9055
+  },
+  {
+   "county_name": "臺北市",
+   "N20": 2605369,
+   "N23": 2509894,
+   "A20": 3128499.5,
+   "A23": 3018233.5,
+   "night23": 2611292,
+   "N_change_pct": -3.6645,
+   "A_change_pct": -3.5246,
+   "A_share_change_pct": -1.5652,
+   "day_over_reg23": 1.2025,
+   "day_over_night23": 1.1558
+  }
+ ],
+ "NNK_top_day_over_reg": [
+  {
+   "county_name": "新北市",
+   "town_name": "平溪區",
+   "day_over_reg": 2.029
+  },
+  {
+   "county_name": "臺北市",
+   "town_name": "中正區",
+   "day_over_reg": 1.758
+  },
+  {
+   "county_name": "臺北市",
+   "town_name": "中山區",
+   "day_over_reg": 1.722
+  },
+  {
+   "county_name": "臺北市",
+   "town_name": "信義區",
+   "day_over_reg": 1.349
+  },
+  {
+   "county_name": "臺北市",
+   "town_name": "南港區",
+   "day_over_reg": 1.333
+  }
+ ],
+ "NNK_low_day_over_reg": [
+  {
+   "county_name": "新北市",
+   "town_name": "石門區",
+   "day_over_reg": 0.532,
+   "outside_town_work_share2020": 0.453
+  },
+  {
+   "county_name": "新北市",
+   "town_name": "雙溪區",
+   "day_over_reg": 0.626,
+   "outside_town_work_share2020": 0.405
+  },
+  {
+   "county_name": "新北市",
+   "town_name": "貢寮區",
+   "day_over_reg": 0.632,
+   "outside_town_work_share2020": 0.122
+  },
+  {
+   "county_name": "新北市",
+   "town_name": "坪林區",
+   "day_over_reg": 0.637,
+   "outside_town_work_share2020": 0.216
+  },
+  {
+   "county_name": "新北市",
+   "town_name": "萬里區",
+   "day_over_reg": 0.67,
+   "outside_town_work_share2020": 0.505
+  }
+ ],
+ "NNK_rank_gap_up": [
+  {
+   "county_name": "臺北市",
+   "town_name": "中正區",
+   "rank_reg": 21.0,
+   "rank_act": 10.0
+  },
+  {
+   "county_name": "臺北市",
+   "town_name": "中山區",
+   "rank_reg": 12.0,
+   "rank_act": 5.0
+  },
+  {
+   "county_name": "新北市",
+   "town_name": "平溪區",
+   "rank_reg": 48.0,
+   "rank_act": 42.0
+  },
+  {
+   "county_name": "臺北市",
+   "town_name": "松山區",
+   "rank_reg": 18.0,
+   "rank_act": 12.0
+  },
+  {
+   "county_name": "臺北市",
+   "town_name": "信義區",
+   "rank_reg": 15.0,
+   "rank_act": 9.0
+  }
+ ],
+ "NNK_rank_gap_down": [
+  {
+   "county_name": "臺北市",
+   "town_name": "文山區",
+   "rank_reg": 9.0,
+   "rank_act": 15.0
+  },
+  {
+   "county_name": "新北市",
+   "town_name": "永和區",
+   "rank_reg": 13.0,
+   "rank_act": 18.0
+  },
+  {
+   "county_name": "新北市",
+   "town_name": "土城區",
+   "rank_reg": 11.0,
+   "rank_act": 16.0
+  },
+  {
+   "county_name": "新北市",
+   "town_name": "蘆洲區",
+   "rank_reg": 16.0,
+   "rank_act": 21.0
+  },
+  {
+   "county_name": "新北市",
+   "town_name": "新店區",
+   "rank_reg": 5.0,
+   "rank_act": 8.0
+  }
+ ],
+ "Keelung": [
+  {
+   "town_name": "中正區",
+   "day_over_reg": 0.986,
+   "day_night_ratio2023": 0.946,
+   "outside_town_work_share2020": 0.458,
+   "share_change_A": -0.078,
+   "rS1_nat": 129.0,
+   "FDR_cluster": "不顯著"
+  },
+  {
+   "town_name": "七堵區",
+   "day_over_reg": 0.897,
+   "day_night_ratio2023": 0.863,
+   "outside_town_work_share2020": 0.634,
+   "share_change_A": -0.062,
+   "rS1_nat": 135.0,
+   "FDR_cluster": "不顯著"
+  },
+  {
+   "town_name": "暖暖區",
+   "day_over_reg": 0.767,
+   "day_night_ratio2023": 0.75,
+   "outside_town_work_share2020": 0.693,
+   "share_change_A": -0.024,
+   "rS1_nat": 172.0,
+   "FDR_cluster": "不顯著"
+  },
+  {
+   "town_name": "仁愛區",
+   "day_over_reg": 0.829,
+   "day_night_ratio2023": 1.035,
+   "outside_town_work_share2020": 0.527,
+   "share_change_A": -0.043,
+   "rS1_nat": 108.0,
+   "FDR_cluster": "不顯著"
+  },
+  {
+   "town_name": "中山區",
+   "day_over_reg": 0.822,
+   "day_night_ratio2023": 0.831,
+   "outside_town_work_share2020": 0.614,
+   "share_change_A": -0.016,
+   "rS1_nat": 163.0,
+   "FDR_cluster": "不顯著"
+  },
+  {
+   "town_name": "安樂區",
+   "day_over_reg": 0.826,
+   "day_night_ratio2023": 0.754,
+   "outside_town_work_share2020": 0.658,
+   "share_change_A": -0.061,
+   "rS1_nat": 158.0,
+   "FDR_cluster": "不顯著"
+  },
+  {
+   "town_name": "信義區",
+   "day_over_reg": 0.851,
+   "day_night_ratio2023": 0.806,
+   "outside_town_work_share2020": 0.596,
+   "share_change_A": -0.062,
+   "rS1_nat": 136.0,
+   "FDR_cluster": "不顯著"
+  }
+ ],
+ "NNK_share_change_median_by_county": {
+  "基隆市": -0.0613,
+  "新北市": -0.0222,
+  "臺北市": -0.0077
+ },
+ "NNK_share_change_neg": 31,
+ "OD_weekday_2023": {
+  "基隆市": {
+   "self": 257317,
+   "臺北市": 43165,
+   "新北市": 30155,
+   "total": 336156,
+   "row_sum": 336158
+  },
+  "臺北市": {
+   "self": 2136333,
+   "新北市": 161122,
+   "基隆市": 5507,
+   "total": 2352455,
+   "row_sum": 2352454
+  },
+  "新北市": {
+   "self": 3241701,
+   "臺北市": 768113,
+   "基隆市": 12608,
+   "total": 4172321,
+   "row_sum": 4172320
+  }
+ }
+}
