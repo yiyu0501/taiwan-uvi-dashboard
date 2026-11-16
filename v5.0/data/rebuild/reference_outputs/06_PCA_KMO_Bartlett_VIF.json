@@ -1,0 +1,70 @@
+{
+  "complete_cases": 366,
+  "columns": [
+    "log1p_activity_per_resident_mean",
+    "log1p_activity_density_mean",
+    "log1p_trip_per_resident_mean",
+    "heat_count_median_營業稅_餐飲",
+    "heat_sales_median_營業稅_餐飲",
+    "heat_count_median_營業稅_零售",
+    "heat_sales_median_營業稅_零售"
+  ],
+  "KMO": 0.840883473804588,
+  "Bartlett_chisq": 3001.7722463107684,
+  "Bartlett_df": 21,
+  "Bartlett_p": 0.0,
+  "PCA_eigenvalues_population_cov": [
+    5.010239979696889,
+    1.1312546408570197,
+    0.2856751313253404,
+    0.2327399334632561,
+    0.21464219262947187,
+    0.09187219046764242,
+    0.033575931560379475
+  ],
+  "PCA_eigenvalues_sample_cov": [
+    5.023966664572769,
+    1.13435396864019,
+    0.2864578029180129,
+    0.23337757711657983,
+    0.21523025343119626,
+    0.09212389509906073,
+    0.03366792041396949
+  ],
+  "PCA_PC1_sample_cov_loadings": {
+    "log1p_activity_per_resident_mean": 0.6771429379343437,
+    "log1p_activity_density_mean": 0.8622180441949047,
+    "log1p_trip_per_resident_mean": 0.623078532967538,
+    "heat_count_median_營業稅_餐飲": 0.9359219750767477,
+    "heat_sales_median_營業稅_餐飲": 0.8741890606688325,
+    "heat_count_median_營業稅_零售": 0.9480565911888521,
+    "heat_sales_median_營業稅_零售": 0.94595429851389
+  },
+  "PCA_variance_ratio": [
+    0.715748568528127,
+    0.1616078058367172,
+    0.04081073304647726,
+    0.033248561923322276,
+    0.03066317037563882,
+    0.01312459863823465,
+    0.0047965616514827735
+  ],
+  "PCA_PC1_loadings": {
+    "log1p_activity_per_resident_mean": 0.3021043501503929,
+    "log1p_activity_density_mean": 0.3846747966153946,
+    "log1p_trip_per_resident_mean": 0.27798375313347745,
+    "heat_count_median_營業稅_餐飲": 0.4175574819321949,
+    "heat_sales_median_營業稅_餐飲": 0.390015613081011,
+    "heat_count_median_營業稅_零售": 0.42297128765843467,
+    "heat_sales_median_營業稅_零售": 0.42203335900731004
+  },
+  "VIF": {
+    "log1p_activity_per_resident_mean": 2.746450719895646,
+    "log1p_activity_density_mean": 3.2254044679810008,
+    "log1p_trip_per_resident_mean": 2.680464271692245,
+    "heat_count_median_營業稅_餐飲": 8.12718353100395,
+    "heat_sales_median_營業稅_餐飲": 5.228847260453596,
+    "heat_count_median_營業稅_零售": 16.200931361226104,
+    "heat_sales_median_營業稅_零售": 15.998246880562299
+  }
+}
